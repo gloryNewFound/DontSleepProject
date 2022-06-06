@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DontSleep:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DontSleep_jar</output-path>
+    <root id="archive" name="DontSleep.jar">
+      <element id="module-output" name="DontSleep" />
+    </root>
+  </artifact>
+</component>
